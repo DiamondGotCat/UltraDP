@@ -9,3 +9,21 @@ Most Fast in My Project.
 
 ### 2. FastDP | NextDP(NextDrop)
 **PEEK SPEED:** 3GB / 5sec
+
+## Usage
+
+### Install Requirements
+
+```
+pip install kamu-jp-modern aiohttp tqdm zstandard
+```
+
+### Command
+
+```
+python nextdrop.py send <target_ip> --port <port> <file_path> [--threads <num_threads>]
+```
+
+```
+python nextdrop.py receive --port <port> <save_dir> [--compress]
+```
