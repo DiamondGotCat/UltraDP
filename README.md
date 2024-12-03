@@ -21,9 +21,9 @@ pip install kamu-jp-modern aiohttp tqdm zstandard
 ### Command
 
 ```
-python nextdrop.py send <target_ip> --port <port> <file_path> [--threads <num_threads>]
+python nextdrop.py send <target_ip> <file_path> [--threads <num_threads>] [--port <port>]
 ```
 
 ```
-python nextdrop.py receive --port <port> <save_dir> [--compress]
+python nextdrop.py receive <save_dir> [--compress] [--port <port>]
 ```
