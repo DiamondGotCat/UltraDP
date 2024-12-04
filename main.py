@@ -1,4 +1,4 @@
-# NextDrop - High-Speed Data Pipeline - Version 4 with Progress Bar
+# UltraDP(Ultra speed file Drop Protocol)
 
 import asyncio
 import socket
