@@ -16,7 +16,7 @@ Python Library is Available.
 ### Install Requirements
 
 ```
-pip install kamu-jp-modern aiohttp tqdm zstandard
+pip install kamu-jp-modern aiohttp tqdm zstandard cryptography
 ```
 
 ### Command
