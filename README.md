@@ -1,15 +1,16 @@
 # UltraDP (Ultra Drop Protocol)
 Ultra Fast File Transfer Pipeline 
 
-## My Pipelines Ranking
+## DiamondGotCat's Protocols
 
-### 1. UltraDP
-Most Fast in My Project.
-**PEEK SPEED:** 6.2GB / 6.2sec
+### UltraDP: Most Fast File Transfer Protocol in My Projects
+8 Gbps(1 GB/s) in My Wi-fi
 
-### 2. NextDP(NextDrop)
-Python Library is Available.
-**PEEK SPEED:** 3GB / 5sec
+### NextDP(NextDrop): You can use Official Python Library
+4.8 Gbps(0.6 GB/s) in My Wi-fi
+
+### USFTP: Built-in File integrity check function (SHA-256)
+2 Gbps(0.25 GB/s) in My Wi-fi
 
 ## Usage
 
