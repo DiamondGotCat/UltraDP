@@ -12,6 +12,9 @@ Ultra Fast File Transfer Pipeline
 ### USFTP: Built-in File integrity check function (SHA-256)
 2 Gbps(0.25 GB/s) in My Wi-fi
 
+### DGHTP: First Hypertext Transfer Protocol in My Projects
+300Mbps(37.5 MB/s) in My Wi-fi
+
 ## Usage
 
 ### Install Requirements
